@@ -17,8 +17,8 @@
 How to reach me:
 
 <a href="mailto:varsha.pandian@gmail.com"><img height="30" src="assets/gmail.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/varsha-pandian/"><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
-<a href=""><img height="30" src="spotify.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/varsha-pandian/"><img height="30" src="assets/linkedin.png"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="assets/spotify.png"></a>&nbsp;&nbsp;
 
 </p>
 
