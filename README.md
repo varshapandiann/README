@@ -3,9 +3,9 @@
 <br>
 <p>
   I love to code, test and eventually break my code :)
-  <img src="assets/life_balance.gif" alt="Life lately" align="right" width="200" height="auto" />
+<img src="assets/what_i_do.gif" alt="That's basically it!" align="right" width="200" height="auto" />
 
-- 🎓 CS major at KIIT University
+- 🎓 CS major at KIIT University, India
   <br>
 - 👩🏻‍💻 Machine Learning & Front-End Development
   <br>
@@ -22,5 +22,5 @@ How to reach me:
 
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=varshapandiann&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=varshapandiann&theme=tokyonight-duo&)](https://git.io/streak-stats)
 </div>
