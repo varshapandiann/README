@@ -5,7 +5,7 @@
   I love to code, test and eventually break my code :)
 <img src="assets/what_i_do.gif" alt="That's basically it!" align="right" width="200" height="auto" />
 
-- 🎓 CS major at KIIT University, Bhubaneswar, India
+- 🎓 CS major at KIIT University, India
   <br>
 - 👩🏻‍💻 Machine Learning & Front-End Development
   <br>
